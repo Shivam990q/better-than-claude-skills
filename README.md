@@ -1,22 +1,21 @@
 <div align="center">
 
-# 🚀 Better Than Claude Skills
-**The Ultimate Skill Arsenal for LLMs & AI Agents**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=220&section=header&text=Better%20Than%20Claude%20Skills&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=The%20Ultimate%20Skill%20Arsenal%20for%20LLMs%20%26%20AI%20Agents&descSize=18&descAlignY=55" width="100%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Better%20Than%20Claude%20Skills&fontSize=50&animation=fadeIn" width="100%" />
-</p>
+<br>
 
-**Supercharge your AI assistants with 16+ highly-optimized, production-ready skills.**
+<a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-FF6B6B.svg?style=for-the-badge&logo=github" /></a>
+<a href="#-license"><img src="https://img.shields.io/badge/License-MIT-4ECDC4.svg?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Skills-16+-45B7D1.svg?style=for-the-badge&logo=rocket" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Built_with-❤️-FF6B6B.svg?style=for-the-badge" /></a>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Built with Love](https://img.shields.io/badge/Built_with-❤️-red.svg?style=for-the-badge)](#)
+<br><br>
 
-*Transform Claude, Gemini, and other LLMs into autonomous agents capable of generating algorithmic art, managing spreadsheets, co-authoring docs, and building complex web artifacts.*
+<h3>🔥 Supercharge your AI assistants with <b>16+ highly-optimized, production-ready skills</b></h3>
 
-<br/>
+<p><i>Transform Claude, Gemini, and other LLMs into autonomous agents capable of generating<br>algorithmic art, managing spreadsheets, co-authoring docs, and building complex web artifacts.</i></p>
+
+<br>
 
 <table>
   <tr>
@@ -31,57 +30,118 @@
 
 </div>
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br>
 
 ## 📖 Table of Contents
 
-- [✨ Why Use This Repository?](#-why-use-this-repository)
-- [📦 Quick Start Installation](#-quick-start-installation)
-  - [Option 1: Drag & Drop (Recommended)](#option-1-drag--drop-recommended)
-  - [Option 2: Build & Package from Source](#option-2-build--package-from-source)
-- [🧰 The Skill Arsenal](#-the-skill-arsenal)
-  - [📄 Document & Data Mastery](#-document--data-mastery)
-  - [🎨 Design & Visual Arts](#-design--visual-arts)
-  - [💻 Development & Engineering](#-development--engineering)
-  - [🛠️ Utilities & Meta-Skills](#️-utilities--meta-skills)
-- [🏗️ Progressive Disclosure Architecture](#️-progressive-disclosure-architecture)
-- [🛠️ Build Your Own Skills (Skill-Creator)](#️-build-your-own-skills-skill-creator)
-- [📊 Evaluation & Benchmarking](#-evaluation--benchmarking)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-
----
-
-## ✨ Why Use This Repository?
-
-Modern LLMs are incredibly smart, but they often lack the strict, domain-specific context needed to execute complex, multi-step workflows flawlessly. **Better Than Claude Skills** bridges that gap by providing a curated, expertly engineered collection of skills.
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+<table>
+<tr>
+<td width="50%">
+
+&nbsp;&nbsp;🌟 [**Why Use This Repository?**](#-why-use-this-repository)\
+&nbsp;&nbsp;📦 [**Quick Start Installation**](#-quick-start-installation)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ [Drag & Drop (No-Code)](#-option-1--drag--drop-no-code)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ [Build from Source](#-option-2--build-from-source)\
+&nbsp;&nbsp;🧰 [**The Skill Arsenal (16+ Skills)**](#-the-skill-arsenal)
+
+</td>
+<td width="50%">
+
+&nbsp;&nbsp;🏗️ [**Progressive Disclosure Architecture**](#%EF%B8%8F-progressive-disclosure-architecture)\
+&nbsp;&nbsp;🛠️ [**Build Your Own Skills**](#%EF%B8%8F-build-your-own-skills-skill-creator)\
+&nbsp;&nbsp;📊 [**Evaluation & Benchmarking**](#-evaluation--benchmarking)\
+&nbsp;&nbsp;🤝 [**Contributing**](#-contributing)\
+&nbsp;&nbsp;📜 [**License**](#-license)
+
+</td>
+</tr>
+</table>
 </div>
 
-- 🎯 **Pinpoint Accuracy:** Skills are designed with **"Progressive Disclosure,"** meaning your AI only gets the context it needs, *when* it needs it, avoiding context bloat and hallucination.
-- ⚡ **Zero-Friction Setup:** Pre-packaged `.skill` files are ready for immediate drag-and-drop deployment into your favorite AI UI.
-- 🛠️ **Autonomous Improvement:** Features a built-in `skill-creator` that allows your AI to autonomously write, benchmark, and optimize *new* skills for you.
-- 🎨 **Production-Grade Outputs:** Generate visually stunning UI designs, beautiful generative art, and perfectly formatted corporate documents.
+<br>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br>
+
+## 🌟 Why Use This Repository?
+
+<div align="center">
+<h4>Modern LLMs are incredibly smart — but they lack the strict, domain-specific context<br>needed to execute complex, multi-step workflows <i>flawlessly</i>.</h4>
+<p><b>Better Than Claude Skills</b> bridges that gap.</p>
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🎯
+### Pinpoint Accuracy
+Skills use **"Progressive Disclosure"** — your AI gets only the context it needs, *when* it needs it. Zero bloat. Zero hallucination.
+
+</td>
+<td width="25%" align="center">
+
+### ⚡
+### Zero-Friction Setup
+Pre-packaged `.skill` files are ready for **instant drag-and-drop** deployment into any AI interface.
+
+</td>
+<td width="25%" align="center">
+
+### 🤖
+### Self-Improving
+Built-in `skill-creator` lets your AI **autonomously write, benchmark, and optimize** new skills for you.
+
+</td>
+<td width="25%" align="center">
+
+### 🎨
+### Production-Grade
+Generate **stunning UI designs**, beautiful generative art, and perfectly formatted corporate documents.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br>
 
 ## 📦 Quick Start Installation
 
-Getting started takes less than 60 seconds. You have two paths to power up your assistant:
+<div align="center">
+<h4>Getting started takes less than <b>60 seconds</b>. Choose your path:</h4>
+</div>
 
-### Option 1: Drag & Drop (No-Code, Recommended)
-*The fastest way to enhance your AI interface.*
+<br>
 
-1. **Download the Repository:** Clone or download the ZIP of this repository.
-2. **Locate the Skills:** Open the directory: `claude (skill-zip) to upload directly/`
-3. **Select Your Skill:** Find the desired `.skill` file (e.g., `frontend-design.skill`, `docx.skill`).
-4. **Deploy:** **Drag and drop** the file directly into your AI assistant interface! 🪄
-5. **Activate:** Ask your AI to use the skill (e.g., "Use the frontend-design skill to create a landing page").
+### 🟢 Option 1 — Drag & Drop (No-Code)
 
-### Option 2: Build & Package from Source (For Developers)
-*Perfect for developers looking to modify or inspect skills before deploying.*
+> **The fastest way to enhance your AI.** No terminal. No setup. Just drag.
+
+| Step | Action |
+|:----:|--------|
+| **1** | 📥 **Download** — Clone or download the ZIP of this repository |
+| **2** | 📂 **Navigate** — Open `claude (skill-zip) to upload directly/skill form/` |
+| **3** | 🔍 **Select** — Find your desired `.skill` file (e.g., `frontend-design.skill`) |
+| **4** | 🪄 **Deploy** — **Drag and drop** the file into your AI assistant interface |
+| **5** | 💬 **Activate** — Ask your AI: *"Use the frontend-design skill to create a landing page"* |
+
+<br>
+
+### 🔵 Option 2 — Build from Source
+
+> **For developers** who want to modify, inspect, or create custom skills.
 
 ```bash
 # 1. Clone the repository
@@ -91,66 +151,238 @@ cd better-than-claude-skills
 # 2. Navigate to the target skill directory
 cd frontend-design/
 
-# 3. Make your edits
-# Edit SKILL.md, scripts/, or references/ to customize the skill
+# 3. Make your edits to SKILL.md, scripts/, or references/
+#    Customize the skill to your exact needs
 
-# 4. Use the built-in bundler to package your custom skill
+# 4. Package your custom skill using the built-in bundler
 python -m scripts.package_skill path/to/skill-folder
 
-# 5. The new .skill file will be generated and ready for use!
+# 5. Your new .skill file is ready for deployment! 🚀
 ```
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br>
 
 ## 🧰 The Skill Arsenal
 
-We've categorized our **16+ highly optimized skills** to help you find exactly what you need. Each skill acts as a focused expert in its domain.
+<div align="center">
+<h4>16+ highly-optimized skills organized into 4 categories.<br>Each skill is a <i>focused expert</i> in its domain.</h4>
+</div>
 
-### 📄 Document & Data Mastery
-Supercharge your AI's ability to read, write, and manipulate complex file formats.
-
-* **`docx` (word-processing):** Ultimate control over `.docx` files. Create, read, and manipulate Word documents with tables of contents, tracked changes, and flawless formatting using low-level XML manipulation and JavaScript libraries.
-* **`xlsx` (spreadsheet-processing):** Advanced spreadsheet manipulation. Read, fix, format, and generate `.xlsx`, `.xlsm`, `.csv`, or `.tsv` files. Includes mandatory formula recalculation workflows.
-* **`pdf` (document-processing):** Comprehensive PDF operations using `pypdf`, `pdfplumber`, and `reportlab`. Extract text/tables, merge, split, watermark, encrypt, fill forms, and run OCR. Avoids common Unicode rendering issues.
-* **`pptx` (presentation-processing):** Create, edit, and extract content from professional `.pptx` presentation slides. Includes design ideas, color palettes, and visual QA automation.
-* **`doc-coauthoring`:** A structured, context-rich workflow for co-authoring technical documentation, proposals, and engineering specs. Guides users through Context Gathering, Refinement & Structure, and Reader Testing.
-
-### 🎨 Design & Visual Arts
-Elevate AI generation from generic "AI slop" to museum-quality aesthetics.
-
-* **`frontend-design`:** Generate distinctive, production-grade frontend interfaces with high design quality. Prioritizes bold aesthetics, strong typography, and precise spatial composition.
-* **`algorithmic-art`:** Create stunning generative art using `p5.js` with seeded randomness and interactive parameters. Workflow: (1) Philosophical manifesto creation, (2) Programmatic expression.
-* **`canvas-design`:** Produce beautiful static visual art and posters exported cleanly as `.png` or `.pdf`. Enforces design philosophies like "Concrete Poetry" or "Chromatic Language".
-* **`theme-factory`:** Instantly apply consistent visual themes (colors/fonts) across slides, docs, and HTML landing pages. Choose from 10 curated themes like "Ocean Depths" or "Midnight Galaxy".
-* **`brand-guidelines`:** Strictly enforce official brand colors and typography (e.g., Anthropic's palette and Poppins/Lora fonts) on all AI-generated artifacts.
-
-### 💻 Development & Engineering
-Empower your AI to build complex applications and robust server architectures.
-
-* **`web-artifacts-builder`:** Build highly complex, multi-component React/Vite/Tailwind web artifacts featuring state management and routing (leveraging `shadcn/ui`). Includes a mandatory bundling workflow.
-* **`webapp-testing`:** Automatically test local web applications using Playwright. Verify frontend functionality, debug UI, and capture test screenshots. Implements a "Reconnaissance-Then-Action" pattern.
-* **`claude-api` (llm-api):** Build, debug, and optimize Claude API & Anthropic SDK integrations. Includes prompt caching, adaptive thinking strategies, and strict API usage hierarchies.
-* **`mcp-builder`:** An authoritative guide for creating robust Model Context Protocol (MCP) servers in FastMCP (Python) or Node/TypeScript. Follows a 4-phase lifecycle: Planning, Implementation, Review/Testing, and Evaluation.
-
-### 🛠️ Utilities & Meta-Skills
-Tools that help you communicate better and build *even more* skills.
-
-* **`skill-creator`:** **The crown jewel.** A meta-skill that allows the AI to create new skills from scratch, modify existing ones, run evaluations, benchmark performance, and optimize triggers.
-* **`slack-gif-creator`:** Generate high-quality animated GIFs perfectly optimized for Slack constraints (dimensions, FPS, colors). Includes physics simulations (bounce, shake, pulse).
-* **`internal-comms`:** Instantly generate properly formatted corporate communications, from status reports (3Ps) to incident post-mortems and company newsletters.
+<br>
 
 ---
 
+### 📄 Document & Data Mastery
+
+> *Supercharge your AI's ability to read, write, and manipulate complex file formats.*
+
+<table>
+<tr>
+<td width="15%" align="center"><h1>📝</h1></td>
+<td>
+
+**`docx`** — Word Processing\
+Ultimate control over `.docx` files. Create, read, and manipulate Word documents with tables of contents, tracked changes, headers/footers, and flawless formatting using low-level XML manipulation and JavaScript libraries.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>📊</h1></td>
+<td>
+
+**`xlsx`** — Spreadsheet Processing\
+Advanced spreadsheet manipulation. Read, fix, format, and generate `.xlsx`, `.xlsm`, `.csv`, or `.tsv` files. Uses `pandas` for analysis and `openpyxl` for formatting. Includes mandatory formula recalculation workflows.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>📕</h1></td>
+<td>
+
+**`pdf`** — Document Processing\
+Comprehensive PDF operations using `pypdf`, `pdfplumber`, and `reportlab`. Extract text/tables, merge, split, watermark, encrypt, fill forms, and run OCR. Handles Unicode superscript/subscript rendering pitfalls.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>📽️</h1></td>
+<td>
+
+**`pptx`** — Presentation Processing\
+Create, edit, and extract content from professional `.pptx` slides. Includes curated color palettes, font pairing guides, layout strategies, and automated visual QA with subagent-driven inspection.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🤝</h1></td>
+<td>
+
+**`doc-coauthoring`** — Collaborative Writing\
+A structured, 3-stage workflow for co-authoring technical docs, proposals, and specs: **Context Gathering** → **Refinement & Structure** → **Reader Testing** with a fresh AI to catch blind spots.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎨 Design & Visual Arts
+
+> *Elevate AI generation from generic "AI slop" to museum-quality aesthetics.*
+
+<table>
+<tr>
+<td width="15%" align="center"><h1>🖥️</h1></td>
+<td>
+
+**`frontend-design`** — Production UI\
+Generate distinctive, production-grade frontend interfaces. Prioritizes bold aesthetics, strong typography, and precise spatial composition — never generic or "AI-looking."
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🌀</h1></td>
+<td>
+
+**`algorithmic-art`** — Generative Art\
+Create stunning generative art using `p5.js` with seeded randomness and interactive parameters. Two-phase workflow: (1) Philosophical manifesto creation, (2) Programmatic visual expression.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🎭</h1></td>
+<td>
+
+**`canvas-design`** — Static Visual Art\
+Produce museum-quality visual art and posters as `.png` or `.pdf`. Enforces design philosophies like "Concrete Poetry," "Chromatic Language," and "Geometric Silence." Mandates expert craftsmanship.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🎨</h1></td>
+<td>
+
+**`theme-factory`** — Visual Theming\
+Apply consistent visual themes across slides, docs, and HTML pages. Choose from **10 curated themes** (Ocean Depths, Midnight Galaxy, Desert Rose, etc.) or generate custom themes on the fly.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🏢</h1></td>
+<td>
+
+**`brand-guidelines`** — Brand Enforcement\
+Strictly enforce official brand colors and typography (e.g., Anthropic's `#d97757` orange, Poppins/Lora fonts) on all AI-generated artifacts. Auto-fallback for missing fonts.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Development & Engineering
+
+> *Empower your AI to build complex applications and robust server architectures.*
+
+<table>
+<tr>
+<td width="15%" align="center"><h1>⚛️</h1></td>
+<td>
+
+**`web-artifacts-builder`** — Complex Web Apps\
+Build multi-component React/Vite/Tailwind web artifacts with state management and routing using `shadcn/ui`. Includes mandatory standalone HTML bundling workflow.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🧪</h1></td>
+<td>
+
+**`webapp-testing`** — Automated Testing\
+Test local web apps using Playwright. Verify frontend functionality, debug UI, and capture screenshots. Uses "Reconnaissance-Then-Action" pattern with server lifecycle management.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🔌</h1></td>
+<td>
+
+**`claude-api`** — LLM API Integration\
+Build, debug, and optimize Claude API & Anthropic SDK integrations. Includes prompt caching, adaptive thinking strategies, model migration guides, and strict SDK vs. raw HTTP hierarchies.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🔧</h1></td>
+<td>
+
+**`mcp-builder`** — MCP Server Development\
+Authoritative guide for creating robust Model Context Protocol (MCP) servers in FastMCP (Python) or Node/TypeScript. Four-phase lifecycle: Planning → Implementation → Review/Testing → Evaluation.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Utilities & Meta-Skills
+
+> *Tools that help you communicate better and build even more skills.*
+
+<table>
+<tr>
+<td width="15%" align="center"><h1>👑</h1></td>
+<td>
+
+**`skill-creator`** — **The Crown Jewel**\
+A meta-skill that lets the AI **create new skills from scratch**, modify existing ones, run evaluations, benchmark performance with variance analysis, and optimize YAML triggers for maximum accuracy.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🎬</h1></td>
+<td>
+
+**`slack-gif-creator`** — Animated GIFs\
+Generate high-quality animated GIFs optimized for Slack constraints (128×128 emoji, 480×480 message). Includes easing functions, physics simulations (bounce, shake, pulse), and PIL-based drawing.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>📢</h1></td>
+<td>
+
+**`internal-comms`** — Corporate Communications\
+Generate properly formatted corporate communications: 3P updates (Progress/Plans/Problems), company newsletters, FAQ responses, incident reports, and leadership updates.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br>
+
 ## 🏗️ Progressive Disclosure Architecture
 
-How do these skills work so flawlessly without overwhelming the AI's context window? 
+<div align="center">
+<h4>How do these skills work so flawlessly without<br>overwhelming the AI's context window?</h4>
+</div>
 
-Every skill is built on a **Progressive Disclosure Architecture**. This means the AI isn't forced to read 10,000 lines of documentation upfront. Instead, it reads what it needs, *when* it needs it.
+<br>
+
+Every skill is built on a **3-layer Progressive Disclosure Architecture**. The AI reads what it needs, *when* it needs it — nothing more.
 
 ```text
 skill-name/
 ├── SKILL.md                 # 📍 The core logic (< 500 lines)
-│   ├── YAML frontmatter     # 🧠 Trigger definition (Metadata)
+│   ├── YAML frontmatter     # 🧠 Trigger definition (always loaded)
 │   └── Markdown body        # ⚙️ High-level workflow instructions
 └── Bundled Resources        # 📦 Loaded strictly ON-DEMAND
     ├── scripts/             # 💻 Executable Python/JS tools
@@ -158,59 +390,164 @@ skill-name/
     └── assets/              # 🖼️ Templates, icons, fonts
 ```
 
-### The Three Layers
-1. **Metadata (Always Present):** The YAML frontmatter acts as a "pushy" trigger, ensuring the AI invokes the skill appropriately for complex tasks.
-2. **Body Instructions (Loaded on Activation):** `SKILL.md` acts as a lightweight orchestrator, telling the AI *how* to approach the problem.
-3. **Bundled Resources (Loaded on Demand):** `references/` and `scripts/` are only pulled into the context window when explicitly required by the workflow.
+<table>
+<tr>
+<td align="center" width="33%">
 
----
+### 🧠 Layer 1
+**Metadata**\
+*(Always Present)*
+
+YAML frontmatter acts as a "pushy" trigger — tells the AI *when* to activate the skill.
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Layer 2
+**Body Instructions**\
+*(Loaded on Activation)*
+
+`SKILL.md` body acts as a lightweight orchestrator — tells the AI *how* to work.
+
+</td>
+<td align="center" width="33%">
+
+### 📦 Layer 3
+**Bundled Resources**\
+*(Loaded on Demand)*
+
+`scripts/` and `references/` are pulled into context only when explicitly needed.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br>
 
 ## 🛠️ Build Your Own Skills (Skill-Creator)
 
-Don't see what you need? Build it! The `skill-creator` tool is a meta-skill that walks the AI through a rigorous creation loop to build new skills for you.
+<div align="center">
+<h4>Don't see what you need? <b>Build it!</b><br>The <code>skill-creator</code> walks you through a rigorous creation loop.</h4>
+</div>
 
-### The Skill Creation Loop
-1. 🎙️ **Interview:** The AI extracts your intent, edge cases, and required formats.
-2. 📝 **Draft:** It generates the `SKILL.md` and initial scripts.
-3. 🧪 **Test Cases:** It generates realistic edge-case prompts.
-4. 🏃 **Execution:** It runs the tests using the newly drafted skill.
-5. 📊 **Evaluate (Qual/Quant):** The AI helps you evaluate the results, automatically generating quantitative baselines and visual comparisons.
-6. 📈 **Iteration & Optimization:** You provide feedback, the AI refines the logic, and it runs a background loop to optimize the YAML triggers for maximum accuracy.
+<br>
 
----
+```text
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│  🎙️ INTERVIEW │────▶│  📝 DRAFT    │────▶│  🧪 TEST     │
+│  Extract      │     │  Generate    │     │  Create edge │
+│  intent &     │     │  SKILL.md &  │     │  case prompts│
+│  edge cases   │     │  scripts     │     │              │
+└─────────────┘     └─────────────┘     └──────┬──────┘
+                                                │
+┌─────────────┐     ┌─────────────┐     ┌──────▼──────┐
+│  📈 OPTIMIZE │◀────│  📊 EVALUATE │◀────│  🏃 EXECUTE  │
+│  Refine YAML │     │  Qual/Quant  │     │  Run tests   │
+│  triggers &  │     │  baselines & │     │  with the    │
+│  iterate     │     │  visual diffs│     │  skill       │
+└─────────────┘     └─────────────┘     └─────────────┘
+       │
+       ▼
+  🎉 SHIP IT!
+```
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br>
 
 ## 📊 Evaluation & Benchmarking
 
-We don't guess if a skill works; we measure it. The framework includes an advanced evaluation suite accessible via the `skill-creator`:
+<div align="center">
+<h4>We don't <i>guess</i> if a skill works — we <b>measure</b> it.</h4>
+</div>
 
-- **A/B Testing:** Simultaneously runs test cases *with* the skill and *without* the skill (or against older versions).
-- **Quantitative Assertions:** Grades outputs against verifiable, hard metrics (e.g., "Did it use the correct font?", "Is the formula valid?").
-- **Efficiency Tracking:** Captures `total_tokens` and `duration_ms` for every single run to monitor cost and speed.
-- **Visual Eval Viewer:** Includes a built-in HTML viewer (`eval-viewer/generate_review.py`) to visually compare outputs and grade iterations side-by-side.
+<br>
 
----
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🔬
+**A/B Testing**\
+Run test cases *with* the skill vs. *without* (or against older versions) simultaneously.
+
+</td>
+<td align="center" width="25%">
+
+### 📏
+**Quantitative Assertions**\
+Grade outputs against verifiable hard metrics: *"Did it use the correct font?"*, *"Is the formula valid?"*
+
+</td>
+<td align="center" width="25%">
+
+### ⏱️
+**Efficiency Tracking**\
+Capture `total_tokens` and `duration_ms` for every run to monitor cost and speed.
+
+</td>
+<td align="center" width="25%">
+
+### 👁️
+**Visual Eval Viewer**\
+Built-in HTML viewer (`generate_review.py`) for side-by-side visual comparison and grading.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br>
 
 ## 🤝 Contributing
 
-We welcome contributions to make LLMs even more capable!
+<div align="center">
+<h4>We welcome contributions to make LLMs even more capable!</h4>
+</div>
 
-1. **Fork the repository**
-2. **Create your feature branch:** `git checkout -b feature/AmazingSkill`
-3. **Commit your changes:** `git commit -m 'Add some AmazingSkill'`
-4. **Push to the branch:** `git push origin feature/AmazingSkill`
-5. **Open a Pull Request**
+```bash
+# 1. Fork the repository
+# 2. Create your feature branch
+git checkout -b feature/AmazingSkill
 
----
+# 3. Commit your changes
+git commit -m 'Add some AmazingSkill'
+
+# 4. Push to the branch
+git push origin feature/AmazingSkill
+
+# 5. Open a Pull Request 🎉
+```
+
+<br>
 
 ## 📜 License
 
-This project is licensed under the terms specified in the `LICENSE.txt` file. Some skills may contain proprietary instructions. Please review individual skill licenses where applicable.
+This project is licensed under the terms specified in `LICENSE.txt`. Some skills may contain proprietary instructions — please review individual skill licenses where applicable.
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-  <br>
-  <i>Built for the future of agentic coding and AI-assisted workflows.</i><br>
-  <b>Happy Building! 🚀</b>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer" width="100%" />
+
+<br>
+
+*Built for the future of agentic coding and AI-assisted workflows.*
+
+**⭐ Star this repo if you find it useful! ⭐**
+
+**Happy Building! 🚀**
+
 </div>
