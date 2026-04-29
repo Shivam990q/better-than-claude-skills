@@ -426,23 +426,23 @@ YAML frontmatter acts as a "pushy" trigger — tells the AI *when* to activate t
 
 <br>
 
-```text
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│  🎙️ INTERVIEW │────▶│  📝 DRAFT    │────▶│  🧪 TEST     │
-│  Extract      │     │  Generate    │     │  Create edge │
-│  intent &     │     │  SKILL.md &  │     │  case prompts│
-│  edge cases   │     │  scripts     │     │              │
-└─────────────┘     └─────────────┘     └──────┬──────┘
-                                                │
-┌─────────────┐     ┌─────────────┐     ┌──────▼──────┐
-│  📈 OPTIMIZE │◀────│  📊 EVALUATE │◀────│  🏃 EXECUTE  │
-│  Refine YAML │     │  Qual/Quant  │     │  Run tests   │
-│  triggers &  │     │  baselines & │     │  with the    │
-│  iterate     │     │  visual diffs│     │  skill       │
-└─────────────┘     └─────────────┘     └─────────────┘
-       │
-       ▼
-  🎉 SHIP IT!
+```mermaid
+flowchart TD
+    subgraph "Phase 1: Generation"
+    A["🎙️ INTERVIEW<br/>Extract intent<br/>& edge cases"] --> B["📝 DRAFT<br/>Generate SKILL.md<br/>& scripts"]
+    B --> C["🧪 TEST<br/>Create edge<br/>case prompts"]
+    end
+    
+    subgraph "Phase 2: Refinement Loop"
+    C --> D["🏃 EXECUTE<br/>Run tests<br/>with the skill"]
+    D --> E["📊 EVALUATE<br/>Qual/Quant baselines<br/>& visual diffs"]
+    E --> F["📈 OPTIMIZE<br/>Refine YAML<br/>triggers & iterate"]
+    F -.->|Iterate| D
+    end
+    
+    F ===> G((🎉 SHIP IT!))
+    
+    style G fill:#00E676,stroke:#333,stroke-width:2px,color:#000
 ```
 
 <br>
