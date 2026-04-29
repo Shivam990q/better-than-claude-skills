@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,33:FFD700,66:32CD32,100:00C9FF&height=220&section=header&text=Better%20Than%20Claude%20Skills&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=The%20Ultimate%20Skill%20Arsenal%20for%20LLMs%20and%20AI%20Agents&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4E50,100:F9D423&height=220&section=header&text=%F0%9F%9A%80%20Better%20Than%20Claude%20Skills&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=The%20Ultimate%20Skill%20Arsenal%20for%20LLMs%20and%20AI%20Agents&descSize=18&descAlignY=55" width="100%" />
 
 <br>
 
-<a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-FF4B2B.svg?style=for-the-badge&logo=github" /></a>
-<a href="#-license"><img src="https://img.shields.io/badge/License-MIT-FFD700.svg?style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Skills-16+-32CD32.svg?style=for-the-badge&logo=rocket" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Built_with-❤️-00C9FF.svg?style=for-the-badge" /></a>
+<a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-FF4E50.svg?style=for-the-badge&logo=github" /></a>
+<a href="#-license"><img src="https://img.shields.io/badge/License-MIT-FF7B3B.svg?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Skills-16+-FFA826.svg?style=for-the-badge&logo=rocket" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Built_with-❤️-F9D423.svg?style=for-the-badge" /></a>
 
 <br><br>
 
@@ -530,7 +530,7 @@ This project is licensed under the terms specified in `LICENSE.txt`. Some skills
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,33:FFD700,66:32CD32,100:00C9FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4E50,100:F9D423&height=120&section=footer" width="100%" />
 
 <br>
 
