@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,33:FFD700,66:32CD32,100:00C9FF&height=220&section=header&text=Better%20Than%20Claude%20Skills&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=The%20Ultimate%20Skill%20Arsenal%20for%20LLMs%20%26%20AI%20Agents&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,33:FFD700,66:32CD32,100:00C9FF&height=220&section=header&text=Better%20Than%20Claude%20Skills&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=The%20Ultimate%20Skill%20Arsenal%20for%20LLMs%20and%20AI%20Agents&descSize=18&descAlignY=55" width="100%" />
 
 <br>
 
@@ -19,12 +19,12 @@
 
 <table>
   <tr>
-    <td align="center"><img width="1917" alt="Showcase 1" src="https://github.com/user-attachments/assets/53b6ddae-5004-43b6-87df-a0169067cfa0" /></td>
-    <td align="center"><img width="1917" alt="Showcase 2" src="https://github.com/user-attachments/assets/eceefd01-75fd-4924-8287-7a154e76dda0" /></td>
+    <td align="center"><img width="100%" alt="Showcase 1" src="https://github.com/user-attachments/assets/53b6ddae-5004-43b6-87df-a0169067cfa0" /></td>
+    <td align="center"><img width="100%" alt="Showcase 2" src="https://github.com/user-attachments/assets/eceefd01-75fd-4924-8287-7a154e76dda0" /></td>
   </tr>
   <tr>
-    <td align="center"><img width="1919" alt="Showcase 3" src="https://github.com/user-attachments/assets/676edd16-1549-4084-889e-e61cd96c2de0" /></td>
-    <td align="center"><img width="1919" alt="Showcase 4" src="https://github.com/user-attachments/assets/ee6be33e-e9f8-45be-ad88-355767f6fc8e" /></td>
+    <td align="center"><img width="100%" alt="Showcase 3" src="https://github.com/user-attachments/assets/676edd16-1549-4084-889e-e61cd96c2de0" /></td>
+    <td align="center"><img width="100%" alt="Showcase 4" src="https://github.com/user-attachments/assets/ee6be33e-e9f8-45be-ad88-355767f6fc8e" /></td>
   </tr>
 </table>
 
