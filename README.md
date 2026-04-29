@@ -1,21 +1,19 @@
 <div align="center">
 
-# ☀️ Better Than Claude Skills
-
-### 🌅 The Ultimate Skill Arsenal for LLMs & AI Agents
-
----
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FF8C42.svg?style=for-the-badge&logo=github)](http://makeapullrequest.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-FFD700.svg?style=for-the-badge)](#-license)
-[![Skills](https://img.shields.io/badge/Skills-16+-FF6B35.svg?style=for-the-badge&logo=rocket)]()
-[![Built with Love](https://img.shields.io/badge/Built_with-❤️-C850C0.svg?style=for-the-badge)]()
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,33:FFD700,66:32CD32,100:00C9FF&height=220&section=header&text=Better%20Than%20Claude%20Skills&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=The%20Ultimate%20Skill%20Arsenal%20for%20LLMs%20%26%20AI%20Agents&descSize=18&descAlignY=55" width="100%" />
 
 <br>
 
-**🔥 Supercharge your AI assistants with 16+ highly-optimized, production-ready skills**
+<a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-FF4B2B.svg?style=for-the-badge&logo=github" /></a>
+<a href="#-license"><img src="https://img.shields.io/badge/License-MIT-FFD700.svg?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Skills-16+-32CD32.svg?style=for-the-badge&logo=rocket" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Built_with-❤️-00C9FF.svg?style=for-the-badge" /></a>
 
-*Transform Claude, Gemini, and other LLMs into autonomous agents capable of generating<br>algorithmic art, managing spreadsheets, co-authoring docs, and building complex web artifacts.*
+<br><br>
+
+<h3>🔥 Supercharge your AI assistants with <b>16+ highly-optimized, production-ready skills</b></h3>
+
+<p><i>Transform Claude, Gemini, and other LLMs into autonomous agents capable of generating<br>algorithmic art, managing spreadsheets, co-authoring docs, and building complex web artifacts.</i></p>
 
 <br>
 
@@ -532,9 +530,11 @@ This project is licensed under the terms specified in `LICENSE.txt`. Some skills
 
 <div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,33:FFD700,66:32CD32,100:00C9FF&height=120&section=footer" width="100%" />
 
-*Built for the future of agentic coding and AI-assisted workflows.* 🌅
+<br>
+
+*Built for the future of agentic coding and AI-assisted workflows.*
 
 **⭐ Star this repo if you find it useful! ⭐**
 
