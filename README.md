@@ -4,9 +4,9 @@
 
 <br>
 
-<a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-FF1744.svg?style=for-the-badge&logo=github" /></a>
-<a href="#-license"><img src="https://img.shields.io/badge/License-MIT-FFEA00.svg?style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Skills-16+-00E676.svg?style=for-the-badge&logo=rocket" /></a>
+<a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-FF1744.svg?style=for-the-badge&logo=github" /></a>&nbsp;
+<a href="#-license"><img src="https://img.shields.io/badge/License-MIT-FFEA00.svg?style=for-the-badge" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Skills-16+-00E676.svg?style=for-the-badge&logo=rocket" /></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Built_with-❤️-00E5FF.svg?style=for-the-badge" /></a>
 
 <br><br>
@@ -72,7 +72,7 @@
 <tr>
 <td width="25%" align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="50" />
 
 ### Pinpoint Accuracy
 Skills use **"Progressive Disclosure"** — your AI gets only the context it needs, *when* it needs it. Zero bloat. Zero hallucination.
@@ -388,7 +388,7 @@ skill-name/
 <tr>
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" width="45" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="45" />
 
 ### Layer 1
 **Metadata**\
@@ -509,7 +509,7 @@ Grade outputs against verifiable hard metrics: *"Did it use the correct font?"*,
 </td>
 <td align="center" width="25%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" width="45" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Stopwatch.png" width="45" />
 
 **Efficiency Tracking**\
 Capture `total_tokens` and `duration_ms` for every run to monitor cost and speed.
@@ -517,7 +517,7 @@ Capture `total_tokens` and `duration_ms` for every run to monitor cost and speed
 </td>
 <td align="center" width="25%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Eyes.png" width="45" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="45" />
 
 **Visual Eval Viewer**\
 Built-in HTML viewer (`generate_review.py`) for side-by-side visual comparison and grading.
