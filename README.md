@@ -122,9 +122,9 @@ Generate **stunning UI designs**, beautiful generative art, and perfectly format
 | Step | Action |
 |:----:|--------|
 | **1** | 📥 **Download** — Clone or download the ZIP of this repository |
-| **2** | 📂 **Navigate** — Open `claude (skill-zip) to upload directly/skill form/` |
+| **2** | 📂 **Navigate** — Open `_claude (skill-zip) to upload directly/skill form/` |
 | **3** | 🔍 **Select** — Find your desired `.skill` file (e.g., `frontend-design.skill`) |
-| **4** | 🪄 **Deploy** — **Drag and drop** the file into your AI assistant interface |
+| **4** | 📤 **Deploy** — **Drag and drop** the file into [claude.ai/customize/skills](https://claude.ai/customize/skills) |
 | **5** | 💬 **Activate** — Ask your AI: *"Use the frontend-design skill to create a landing page"* |
 
 <br>
