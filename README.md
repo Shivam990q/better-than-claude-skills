@@ -72,7 +72,7 @@
 <tr>
 <td width="25%" align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="50" />
 
 ### Pinpoint Accuracy
 Skills use **"Progressive Disclosure"** — your AI gets only the context it needs, *when* it needs it. Zero bloat. Zero hallucination.
@@ -194,7 +194,7 @@ Advanced spreadsheet manipulation. Read, fix, format, and generate `.xlsx`, `.xl
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" width="50" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="50" /></td>
 <td>
 
 **`pdf`** — Document Processing\
@@ -347,7 +347,7 @@ Generate high-quality animated GIFs optimized for Slack constraints (128×128 em
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="50" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" width="50" /></td>
 <td>
 
 **`internal-comms`** — Corporate Communications\
@@ -388,7 +388,7 @@ skill-name/
 <tr>
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="45" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" width="45" />
 
 ### Layer 1
 **Metadata**\
@@ -521,7 +521,7 @@ Capture `total_tokens` and `duration_ms` for every run to monitor cost and speed
 </td>
 <td align="center" width="25%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye.png" width="45" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Eyes.png" width="45" />
 
 **Visual Eval Viewer**\
 Built-in HTML viewer (`generate_review.py`) for side-by-side visual comparison and grading.
