@@ -38,30 +38,20 @@
 
 ## 📖 Table of Contents
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-&nbsp;&nbsp;🌟 [**Why Use This Repository?**](#-why-use-this-repository)\
-&nbsp;&nbsp;📦 [**Quick Start Installation**](#-quick-start-installation)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ [Drag & Drop (No-Code)](#-option-1--drag--drop-no-code)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ [Build from Source](#-option-2--build-from-source)\
-&nbsp;&nbsp;🧰 [**The Skill Arsenal (16+ Skills)**](#-the-skill-arsenal)
-
-</td>
-<td width="50%">
-
-&nbsp;&nbsp;🏗️ [**Progressive Disclosure Architecture**](#%EF%B8%8F-progressive-disclosure-architecture)\
-&nbsp;&nbsp;🛠️ [**Build Your Own Skills**](#%EF%B8%8F-build-your-own-skills-skill-creator)\
-&nbsp;&nbsp;📊 [**Evaluation & Benchmarking**](#-evaluation--benchmarking)\
-&nbsp;&nbsp;🤝 [**Contributing**](#-contributing)\
-&nbsp;&nbsp;📜 [**License**](#-license)
-
-</td>
-</tr>
-</table>
-</div>
+- 🌟 [Why Use This Repository?](#-why-use-this-repository)
+- 📦 [Quick Start Installation](#-quick-start-installation)
+  - [Drag & Drop (No-Code)](#-option-1--drag--drop-no-code)
+  - [Build from Source](#-option-2--build-from-source)
+- 🧰 [The Skill Arsenal (16+ Skills)](#-the-skill-arsenal)
+  - [📄 Document & Data Mastery](#-document--data-mastery)
+  - [🎨 Design & Visual Arts](#-design--visual-arts)
+  - [💻 Development & Engineering](#-development--engineering)
+  - [🛠️ Utilities & Meta-Skills](#%EF%B8%8F-utilities--meta-skills)
+- 🏗️ [Progressive Disclosure Architecture](#%EF%B8%8F-progressive-disclosure-architecture)
+- 🛠️ [Build Your Own Skills (Skill-Creator)](#%EF%B8%8F-build-your-own-skills-skill-creator)
+- 📊 [Evaluation & Benchmarking](#-evaluation--benchmarking)
+- 🤝 [Contributing](#-contributing)
+- 📜 [License](#-license)
 
 <br>
 
