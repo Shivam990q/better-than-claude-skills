@@ -11,7 +11,7 @@
 
 <br><br>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35"/> Supercharge your AI assistants with <b>16+ highly-optimized, production-ready skills</b></h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" valign="middle"> Supercharge your AI assistants with <b>16+ highly-optimized, production-ready skills</b></h3>
 
 <p><i>Transform Claude, Gemini, and other LLMs into autonomous agents capable of generating<br>algorithmic art, managing spreadsheets, co-authoring docs, and building complex web artifacts.</i></p>
 
