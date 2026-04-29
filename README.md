@@ -72,28 +72,32 @@
 <tr>
 <td width="25%" align="center">
 
-### 🎯
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="50" />
+
 ### Pinpoint Accuracy
 Skills use **"Progressive Disclosure"** — your AI gets only the context it needs, *when* it needs it. Zero bloat. Zero hallucination.
 
 </td>
 <td width="25%" align="center">
 
-### ⚡
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="50" />
+
 ### Zero-Friction Setup
 Pre-packaged `.skill` files are ready for **instant drag-and-drop** deployment into any AI interface.
 
 </td>
 <td width="25%" align="center">
 
-### 🤖
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="50" />
+
 ### Self-Improving
 Built-in `skill-creator` lets your AI **autonomously write, benchmark, and optimize** new skills for you.
 
 </td>
 <td width="25%" align="center">
 
-### 🎨
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="50" />
+
 ### Production-Grade
 Generate **stunning UI designs**, beautiful generative art, and perfectly formatted corporate documents.
 
@@ -172,7 +176,7 @@ python -m scripts.package_skill path/to/skill-folder
 
 <table>
 <tr>
-<td width="15%" align="center"><h1>📝</h1></td>
+<td width="15%" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="50" /></td>
 <td>
 
 **`docx`** — Word Processing\
@@ -181,7 +185,7 @@ Ultimate control over `.docx` files. Create, read, and manipulate Word documents
 </td>
 </tr>
 <tr>
-<td align="center"><h1>📊</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="50" /></td>
 <td>
 
 **`xlsx`** — Spreadsheet Processing\
@@ -190,7 +194,7 @@ Advanced spreadsheet manipulation. Read, fix, format, and generate `.xlsx`, `.xl
 </td>
 </tr>
 <tr>
-<td align="center"><h1>📕</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" width="50" /></td>
 <td>
 
 **`pdf`** — Document Processing\
@@ -199,7 +203,7 @@ Comprehensive PDF operations using `pypdf`, `pdfplumber`, and `reportlab`. Extra
 </td>
 </tr>
 <tr>
-<td align="center"><h1>📽️</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="50" /></td>
 <td>
 
 **`pptx`** — Presentation Processing\
@@ -208,7 +212,7 @@ Create, edit, and extract content from professional `.pptx` slides. Includes cur
 </td>
 </tr>
 <tr>
-<td align="center"><h1>🤝</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50" /></td>
 <td>
 
 **`doc-coauthoring`** — Collaborative Writing\
@@ -226,7 +230,7 @@ A structured, 3-stage workflow for co-authoring technical docs, proposals, and s
 
 <table>
 <tr>
-<td width="15%" align="center"><h1>🖥️</h1></td>
+<td width="15%" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="50" /></td>
 <td>
 
 **`frontend-design`** — Production UI\
@@ -235,7 +239,7 @@ Generate distinctive, production-grade frontend interfaces. Prioritizes bold aes
 </td>
 </tr>
 <tr>
-<td align="center"><h1>🌀</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" width="50" /></td>
 <td>
 
 **`algorithmic-art`** — Generative Art\
@@ -244,7 +248,7 @@ Create stunning generative art using `p5.js` with seeded randomness and interact
 </td>
 </tr>
 <tr>
-<td align="center"><h1>🎭</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Performing%20Arts.png" width="50" /></td>
 <td>
 
 **`canvas-design`** — Static Visual Art\
@@ -253,7 +257,7 @@ Produce museum-quality visual art and posters as `.png` or `.pdf`. Enforces desi
 </td>
 </tr>
 <tr>
-<td align="center"><h1>🎨</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="50" /></td>
 <td>
 
 **`theme-factory`** — Visual Theming\
@@ -262,7 +266,7 @@ Apply consistent visual themes across slides, docs, and HTML pages. Choose from 
 </td>
 </tr>
 <tr>
-<td align="center"><h1>🏢</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="50" /></td>
 <td>
 
 **`brand-guidelines`** — Brand Enforcement\
@@ -280,7 +284,7 @@ Strictly enforce official brand colors and typography (e.g., Anthropic's `#d9775
 
 <table>
 <tr>
-<td width="15%" align="center"><h1>⚛️</h1></td>
+<td width="15%" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" /></td>
 <td>
 
 **`web-artifacts-builder`** — Complex Web Apps\
@@ -289,7 +293,7 @@ Build multi-component React/Vite/Tailwind web artifacts with state management an
 </td>
 </tr>
 <tr>
-<td align="center"><h1>🧪</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="50" /></td>
 <td>
 
 **`webapp-testing`** — Automated Testing\
@@ -298,7 +302,7 @@ Test local web apps using Playwright. Verify frontend functionality, debug UI, a
 </td>
 </tr>
 <tr>
-<td align="center"><h1>🔌</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="50" /></td>
 <td>
 
 **`claude-api`** — LLM API Integration\
@@ -307,7 +311,7 @@ Build, debug, and optimize Claude API & Anthropic SDK integrations. Includes pro
 </td>
 </tr>
 <tr>
-<td align="center"><h1>🔧</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="50" /></td>
 <td>
 
 **`mcp-builder`** — MCP Server Development\
@@ -325,7 +329,7 @@ Authoritative guide for creating robust Model Context Protocol (MCP) servers in 
 
 <table>
 <tr>
-<td width="15%" align="center"><h1>👑</h1></td>
+<td width="15%" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" width="50" /></td>
 <td>
 
 **`skill-creator`** — **The Crown Jewel**\
@@ -334,7 +338,7 @@ A meta-skill that lets the AI **create new skills from scratch**, modify existin
 </td>
 </tr>
 <tr>
-<td align="center"><h1>🎬</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="50" /></td>
 <td>
 
 **`slack-gif-creator`** — Animated GIFs\
@@ -343,7 +347,7 @@ Generate high-quality animated GIFs optimized for Slack constraints (128×128 em
 </td>
 </tr>
 <tr>
-<td align="center"><h1>📢</h1></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="50" /></td>
 <td>
 
 **`internal-comms`** — Corporate Communications\
@@ -384,7 +388,9 @@ skill-name/
 <tr>
 <td align="center" width="33%">
 
-### 🧠 Layer 1
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="45" />
+
+### Layer 1
 **Metadata**\
 *(Always Present)*
 
@@ -393,7 +399,9 @@ YAML frontmatter acts as a "pushy" trigger — tells the AI *when* to activate t
 </td>
 <td align="center" width="33%">
 
-### ⚙️ Layer 2
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="45" />
+
+### Layer 2
 **Body Instructions**\
 *(Loaded on Activation)*
 
@@ -402,7 +410,9 @@ YAML frontmatter acts as a "pushy" trigger — tells the AI *when* to activate t
 </td>
 <td align="center" width="33%">
 
-### 📦 Layer 3
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="45" />
+
+### Layer 3
 **Bundled Resources**\
 *(Loaded on Demand)*
 
@@ -487,28 +497,32 @@ YAML frontmatter acts as a "pushy" trigger — tells the AI *when* to activate t
 <tr>
 <td align="center" width="25%">
 
-### 🔬
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="45" />
+
 **A/B Testing**\
 Run test cases *with* the skill vs. *without* (or against older versions) simultaneously.
 
 </td>
 <td align="center" width="25%">
 
-### 📏
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Straight%20Ruler.png" width="45" />
+
 **Quantitative Assertions**\
 Grade outputs against verifiable hard metrics: *"Did it use the correct font?"*, *"Is the formula valid?"*
 
 </td>
 <td align="center" width="25%">
 
-### ⏱️
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" width="45" />
+
 **Efficiency Tracking**\
 Capture `total_tokens` and `duration_ms` for every run to monitor cost and speed.
 
 </td>
 <td align="center" width="25%">
 
-### 👁️
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye.png" width="45" />
+
 **Visual Eval Viewer**\
 Built-in HTML viewer (`generate_review.py`) for side-by-side visual comparison and grading.
 
@@ -560,8 +574,8 @@ This project is licensed under the terms specified in `LICENSE.txt`. Some skills
 
 *Built for the future of agentic coding and AI-assisted workflows.*
 
-**⭐ Star this repo if you find it useful! ⭐**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" /> **Star this repo if you find it useful!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" />
 
-**Happy Building! 🚀**
+**Happy Building!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" />
 
 </div>
