@@ -475,10 +475,6 @@ YAML frontmatter acts as a "pushy" trigger — tells the AI *when* to activate t
 </tr>
 </table>
 
-<br>
-
-<img src="https://img.shields.io/badge/🎉_SHIP_IT!-00E676?style=for-the-badge" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
