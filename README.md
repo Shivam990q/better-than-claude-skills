@@ -426,26 +426,54 @@ YAML frontmatter acts as a "pushy" trigger — tells the AI *when* to activate t
 
 <br>
 
-```mermaid
-flowchart TD
-    subgraph "Phase 1: Generation"
-    A["🎙️ INTERVIEW<br/>Extract intent<br/>& edge cases"] --> B["📝 DRAFT<br/>Generate SKILL.md<br/>& scripts"]
-    B --> C["🧪 TEST<br/>Create edge<br/>case prompts"]
-    end
-    
-    subgraph "Phase 2: Refinement Loop"
-    C --> D["🏃 EXECUTE<br/>Run tests<br/>with the skill"]
-    D --> E["📊 EVALUATE<br/>Qual/Quant baselines<br/>& visual diffs"]
-    E --> F["📈 OPTIMIZE<br/>Refine YAML<br/>triggers & iterate"]
-    F -.->|Iterate| D
-    end
-    
-    F ===> G((🎉 SHIP IT!))
-    
-    style G fill:#00E676,stroke:#333,stroke-width:2px,color:#000
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### <img src="https://img.shields.io/badge/1_GENERATION-00E5FF?style=for-the-badge" />
 
 <br>
+
+<h1>🎙️</h1>
+<b>INTERVIEW</b><br>Extract user intent & edge cases
+<br><br><b>↓</b><br><br>
+<h1>📝</h1>
+<b>DRAFT</b><br>Generate `SKILL.md` & executable scripts
+<br><br><b>↓</b><br><br>
+<h1>🧪</h1>
+<b>TEST</b><br>Create rigorous edge-case prompts
+
+<br>
+
+</td>
+<td width="50%" align="center">
+
+### <img src="https://img.shields.io/badge/2_REFINEMENT_LOOP-FFEA00?style=for-the-badge" />
+
+<br>
+
+<h1>🏃</h1>
+<b>EXECUTE</b><br>Run test prompts with the new skill
+<br><br><b>↓</b><br><br>
+<h1>📊</h1>
+<b>EVALUATE</b><br>Measure qualitative/quantitative baselines
+<br><br><b>↓</b><br><br>
+<h1>📈</h1>
+<b>OPTIMIZE</b><br>Refine YAML triggers & repeat loop
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/🎉_SHIP_IT!-00E676?style=for-the-badge" />
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
