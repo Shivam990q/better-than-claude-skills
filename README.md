@@ -139,7 +139,7 @@ Generate **stunning UI designs**, beautiful generative art, and perfectly format
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/better-than-claude-skills.git
+git clone https://github.com/Shivam990q/better-than-claude-skills.git
 cd better-than-claude-skills
 
 # 2. Navigate to the target skill directory
