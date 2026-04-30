@@ -6,7 +6,7 @@ If you discover a security vulnerability within any skill, **please do NOT open 
 
 Instead, report it responsibly:
 
-1. **Email:** Send details to **shivam990q@gmail.com** with the subject line `[SECURITY] better-than-claude-skills`
+1. **Email:** Send details to **guptashivam93660@gmail.com** with the subject line `[SECURITY] better-than-claude-skills`
 2. **Include:**
    - A detailed description of the vulnerability
    - Steps to reproduce the issue

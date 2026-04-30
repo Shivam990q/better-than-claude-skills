@@ -45,7 +45,7 @@ We are considering launching a Discord server for real-time collaboration. If yo
 
 If you are using this architecture in a commercial setting and require dedicated support, consulting, or custom skill development, please reach out directly:
 
-- **Email**: shivam990q@gmail.com
+- **Email**: guptashivam93660@gmail.com
 - **LinkedIn**: [Shivam's Profile](https://www.linkedin.com/in/shivam990q/)
 
 ---
